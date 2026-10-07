@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Secrets and local configuration
+.env
+.env.*
+firebase-service-account.json
+google-services.json
+GoogleService-Info.plist
+*.keystore
+*.jks
+local.properties
+
+# Build output
+build/
+.cxx/
+.gradle/
+.kotlin/
+.idea/
+Pods/
+DerivedData/
+*.apk
+*.aab
+
+# Logs and OS
+*.log
+npm-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
