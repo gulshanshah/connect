@@ -1,4 +1,4 @@
-# Connect-o
+# Connect
 
 A college-focused social networking platform: phone number + OTP sign-in, rich
 usernames, stories and posts, real-time chat with voice and media messages,
